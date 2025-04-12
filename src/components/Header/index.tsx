@@ -45,7 +45,7 @@ const Header = () => {
           sticky
             ? "dark:bg-gray-dark dark:shadow-sticky-dark shadow-sticky fixed z-9999 bg-white/80 backdrop-blur-xs transition"
             : "absolute bg-transparent"
-        }`}
+        }`} 
       >
         <div className="container">
           <div className="relative -mx-4 flex items-center justify-between">
